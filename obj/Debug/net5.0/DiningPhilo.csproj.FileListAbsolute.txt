@@ -1,0 +1,16 @@
+C:\Users\drit0046\VSCode\DiningPhilo\bin\Debug\net5.0\DiningPhilo.exe
+C:\Users\drit0046\VSCode\DiningPhilo\bin\Debug\net5.0\DiningPhilo.deps.json
+C:\Users\drit0046\VSCode\DiningPhilo\bin\Debug\net5.0\DiningPhilo.runtimeconfig.json
+C:\Users\drit0046\VSCode\DiningPhilo\bin\Debug\net5.0\DiningPhilo.runtimeconfig.dev.json
+C:\Users\drit0046\VSCode\DiningPhilo\bin\Debug\net5.0\DiningPhilo.dll
+C:\Users\drit0046\VSCode\DiningPhilo\bin\Debug\net5.0\DiningPhilo.pdb
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.csproj.AssemblyReference.cache
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.AssemblyInfoInputs.cache
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.AssemblyInfo.cs
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.csproj.CoreCompileInputs.cache
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.dll
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\refint\DiningPhilo.dll
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.pdb
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\DiningPhilo.genruntimeconfig.cache
+C:\Users\drit0046\VSCode\DiningPhilo\obj\Debug\net5.0\ref\DiningPhilo.dll
